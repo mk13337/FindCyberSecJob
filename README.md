@@ -2,7 +2,7 @@
 ## Описание
 Данный репозиторий создан для помощи студентам в сфере ИБ в поиске стажировок и работы.
 ## Полезные материалы
-[Презентация]() с выступления на SPbCTF
+[Презентация](https://github.com/MiichaelKlimenko/FindCyberSecJob/blob/main/workIB.pptx) с выступления на SPbCTF
  
 
 [Список чатов](https://github.com/MiichaelKlimenko/FindCyberSecJob/blob/main/chats.md) связанных с ИБ
@@ -22,7 +22,7 @@
 
 [Ответы](https://github.com/MiichaelKlimenko/FindCyberSecJob/blob/main/first_question.md) на первый вопрос
 
-[Ответы](https://github.com/MiichaelKlimenko/FindCyberSecJob/blob/main/second.md) на второй вопрос
+[Ответы](https://github.com/MiichaelKlimenko/FindCyberSecJob/blob/main/second_question.md) на второй вопрос
 
 [Ответы](https://github.com/MiichaelKlimenko/FindCyberSecJob/blob/main/third_question.md) на третий вопрос
 
