@@ -76,6 +76,7 @@
 | Новости о российских CTF| [cbs_media](https://t.me/cbs_media)|
 | Канал команды RedCadets| [redcadets](https://t.me/redcadets)|
 | Новости о CTF в России| [ctfnews](https://t.me/ctfnews)|
+| Канал команды SPRUSH | [MEPHi CTF](https://t.me/mephictf)|
 
 
 ## Боты
